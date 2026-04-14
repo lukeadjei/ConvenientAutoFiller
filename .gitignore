@@ -1,0 +1,13 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# VS Code
+.vscode/
+
+# macOS (if you ever work on a Mac)
+.DS_Store
+
+# Node (if you ever add a build step)
+node_modules/
